@@ -1,8 +1,8 @@
 # Guard::Foodcritic
 
-[![Gem Version](https://badge.fury.io/rb/guard-foodcritic.png)](http://badge.fury.io/rb/guard-foodcritic)
+[![Gem Version](https://badge.fury.io/rb/guard-foodcritic.svg)](http://badge.fury.io/rb/guard-foodcritic)
 
-[![Build Status](https://travis-ci.org/Nordstrom/guard-foodcritic.png?branch=master)](https://travis-ci.org/Nordstrom/guard-foodcritic)
+[![Build Status](https://travis-ci.org/Nordstrom/guard-foodcritic.svg?branch=master)](https://travis-ci.org/Nordstrom/guard-foodcritic)
 
 [![Inline docs](http://inch-ci.org/github/nordstrom/guard-foodcritic.svg?branch=master)](http://inch-ci.org/github/nordstrom/guard-foodcritic)
 
